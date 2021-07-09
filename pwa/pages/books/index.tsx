@@ -26,6 +26,6 @@ Page.getInitialProps = async () => {
   const collection = await fetch("/books");
 
   return { collection };
-};
+}; 
 
 export default Page;
