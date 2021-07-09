@@ -54,4 +54,4 @@ Created by [Kévin Dunglas](https://dunglas.fr). Commercial support available at
 
 ## Test discord
 
-ceci est un test pour notif discord 
+ceci est un test pour notif discord test 2 
